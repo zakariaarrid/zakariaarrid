@@ -5,6 +5,7 @@ There is the land where I share toys and take a break.
 📫  How to reach me?
 
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zakariaarrid&color=5b5b5b&labelColor=5b5b5b)](https://github.com/zakariaarrid)
+[![telegram](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zakariaarrid&color=5b5b5b&labelColor=5b5b5b)](https://github.com/zakariaarrid)
 
 <details>
 <summary>⚡️ More about my coding life</summary>
