@@ -7,7 +7,7 @@ There is the land where I share toys and take a break.
 ![wechat](https://img.shields.io/static/v1?style=flat-square&logo=wechat&label=&message=@zheeeng001&color=5b5b5b&labelColor=5b5b5b)
 [![zhihu](https://img.shields.io/static/v1?style=flat-square&logo=zhihu&label=&message=@zheeeng&color=5b5b5b&labelColor=5b5b5b)](https://www.zhihu.com/people/zheeeng)
 [![v2ex](https://img.shields.io/static/v1?style=flat-square&label=v2ex&message=@sunjourney&color=5b5b5b&labelColor=5b5b5b)](https://v2ex.com/member/sunjourney)
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zheeeng&color=5b5b5b&labelColor=5b5b5b)](https://github.com/zheeeng)
+[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zakariaarrid&color=5b5b5b&labelColor=5b5b5b)](https://github.com/zheeeng)
 
 <details>
 <summary>⚡️ More about my coding life</summary>
